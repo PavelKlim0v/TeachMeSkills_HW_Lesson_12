@@ -1,0 +1,6 @@
+docnum123abcd55
+contractG135kit
+docnum64gs46gsd
+contractvb48 - Валидный номер документа должен иметь длину 15 символов.
+contract123 - Валидный номер документа должен иметь длину 15 символов.
+contractHY67dev
